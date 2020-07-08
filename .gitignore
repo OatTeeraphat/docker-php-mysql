@@ -1,0 +1,6 @@
+**/.DS_Store
+.DS_Store
+www/
+etc/mysql/data/
+!www/.gitkeep
+!etc/mysql/.gitkeep
